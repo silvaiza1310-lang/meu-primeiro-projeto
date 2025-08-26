@@ -1,10 +1,10 @@
-# meu-primeiro-projeto 👩‍💻
+# Meu-primeiro-projeto 👩‍💻
 
 Estes é meu primeiro repositório de projeto GitHub!
 Ainda estou começando na área de Análise e Desenvolvimento de  e criei este espaço para praticar o uso do GitHub e aprender mais sobre os códigos e organização dos projetos.
 
 
-# Tecnologia utilizada:
+## Tecnologia utilizada:
 - GitHub (só esse no momento como estou começando)
 
   
